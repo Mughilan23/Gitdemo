@@ -1,1 +1,2 @@
-thisisgithubdemoclass
+thisisgithubdemoclass 
+modified test.txt file
